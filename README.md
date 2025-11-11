@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m looking to collaborate on Any Cool project! (ping me and let's get a coffee together)<br><br>💬 Ask me about React, Angular, JS, TS, C#, <br><br>📫 How to reach me amirazizi67@gmail.com<br><br>📄 Know about my experiences https://www.linkedin.com/in/amir-azizi-243788105
+💬 Ask me about NodeJS, React, Angular, JS, TS, C#, <br><br>📫 How to reach me amirazizi67@gmail.com<br><br>📄 Know about my experiences https://www.linkedin.com/in/amir-azizi-243788105
 
 
 ## 🌐 Socials:
