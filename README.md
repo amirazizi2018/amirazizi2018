@@ -1,5 +1,11 @@
-# 💫 About Me:
-💬 Ask me about NodeJS, React, Angular, JS, TS, C#, <br><br>📫 How to reach me amirazizi67@gmail.com<br><br>📄 Know about my experiences https://www.linkedin.com/in/amir-azizi-243788105
+# 🧠 About Me:
+💬 Ask me about NodeJS, React, Angular, JS, TS, C# <br><br>📫 How to reach me amirazizi67@gmail.com<br><br>📄 Know about my experiences https://www.linkedin.com/in/amir-azizi-243788105
+
+
+- 🎯 Passionate about designing extensible project structures based on Clean Architecture  
+- 🧩 Specialized in modular, testable, and maintainable backend systems  
+- 🔄 Always ready to refactor and rethink for clarity and simplicity  
+- 🤝 Enjoy collaborating with frontend and product teams for seamless developer experience  
 
 
 ## 🌐 Socials:
